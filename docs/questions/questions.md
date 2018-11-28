@@ -12,7 +12,7 @@ Questions are grouped into model use and model documentation. Possible clues/ans
 
 3. What is the coded wire tag tables and how is that table associated with stocks?
 
-4.Do you have to have multiple regional fisheries? i.e. is it possible to have a fisheries occurring in only one region?
+4. Do you have to have multiple regional fisheries? i.e. is it possible to have a fisheries occurring in only one region?
 
 5. The model does not produce output if you set the model to run more than 31 years. Why is that? and how do we fix it?
 
