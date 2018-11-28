@@ -21,7 +21,7 @@ Questions are grouped into model use and model documentation. Possible clues/ans
 
 
 2. It is common in population dynamics simulation studies for the first few simulated years to be very unstable.  In order to evaluate that, we would need to: run the model with constant mortalities and no recruitment deviations (set error in recruitment curve equal to 0). How do we do that?
-**A:**So far the only solution is to run the model setting all variances to low numbers, e.g.: 0.01.
+**A:**So far the only solution is to run the model setting all variances to low numbers, e.g.: 0.01. The model does stop running if you set the SD to a very small number (e.g. 10e-08). 
 
 
 3. What are the statistical distributions for all the process and observation error components of the model? -- there might be some 
