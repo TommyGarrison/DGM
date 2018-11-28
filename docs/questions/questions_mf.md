@@ -3,7 +3,7 @@
 
 Questions are grouped into model use and model documentation. Possible clues/answers of where to find answers are listed below Question
 
-###Model use questions
+### Model use questions
 
 1. The dbase has referential integrity in place. Deleting data (eg stocks) will then result in cascade deletions. If the user relies on csv files then cascade deletion won't happen. Will the dgm function ok if there is orphaned data in the csv file approach?
 
@@ -14,7 +14,7 @@ Questions are grouped into model use and model documentation. Possible clues/ans
 
 4.Do you have to have multiple regional fisheries? i.e. is it possible to have a fisheries occurring in only one region?
 
-###Model documentation questions
+### Model documentation questions
 
 1. We need a document that list all the model equations?
 **A:** No, but the manual contain some information to that respect
