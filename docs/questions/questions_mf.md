@@ -14,6 +14,8 @@ Questions are grouped into model use and model documentation. Possible clues/ans
 
 4.Do you have to have multiple regional fisheries? i.e. is it possible to have a fisheries occurring in only one region?
 
+5. The model does not produce output if you set the model to run more than 31 years. Why is that? and how do we fix it?
+
 ### Model documentation questions
 
 1. We need a document that list all the model equations?
